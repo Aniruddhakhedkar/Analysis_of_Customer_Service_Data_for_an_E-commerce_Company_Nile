@@ -21,6 +21,27 @@ escalations.
 
 5)-Trends and Patterns Identification: Identify patterns and trends in customer service data to uncover opportunities for process improvements and innovative service offerings.
 
+## Data Description/Data Dictionary:-
+
+• Id: Unique Customer id
+• customer_name: Name of the customer
+• sentiment: Sentiment of the customer (Neutral, Positive, Very Positive, 
+Negative, Very Negative)
+• csat_score: Customer Satisfaction Score (Scale of 1 to 10, 1 being lowest and 
+10 being Highest)
+• call_timestamp: Date on which the call was made by the customer.
+• call_day: Day of the Call (1 represents call was made on 1st of the month, 
+similarly for other numbers)
+• reason: Reason why the customer called (Billing Question, Service Outage & 
+Payments)
+• city: City to which the customer belongs
+• state: State to which the customer belongs
+• channel: Mode of communication that customer used (Call-center, Chatbot, 
+Email, Web)
+• response_time: How fast the customer request was serviced (SLA level 
+🡪Above SLA, Below SLA, Within SLA)
+• call duration in minutes: Duration of the call
+• call_center: Location of the call center where service request was handled
 
 
 
