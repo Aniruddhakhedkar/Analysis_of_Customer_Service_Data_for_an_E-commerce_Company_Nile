@@ -4,7 +4,7 @@
 
 This project endeavors to utilize data-driven methods to streamline customer service operations, elevate customer satisfaction levels at Nile, an E-commerce company. Through an in-depth review of past customer service data, the project aims to uncover insights into patterns, trends, and areas for service enhancement. The ultimate goal is to boost customer loyalty and operational effectiveness, driving overall service quality for the company.
 
-Furthermore, the insights were derived using the CRISP-DM framework and employing a real-time monitoring dashboard to efficiently track & achieve all project objectives. This approach ensured a systematic & effective goal management throughout the project. The detailed analysis procedure, findings, and recommendations are documented in the PowerPoint presentation attached above for reference and review.
+Furthermore, the insights were derived using the (CRISP-DM Cross-Industry Standard Process for Data Mining) framework and employing a real-time monitoring dashboard to efficiently track & achieve all project objectives. This approach ensured a systematic & effective goal management throughout the project. The detailed analysis procedure, findings, and recommendations are documented in the PowerPoint presentation attached above for reference and review.
 
 ## Tools/Software:- Microsoft Excel, Microsoft PowerPoint
 
