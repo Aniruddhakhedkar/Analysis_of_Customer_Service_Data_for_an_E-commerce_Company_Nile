@@ -22,9 +22,9 @@ escalations.
 ## Recommendations:-
 
 1. Find out why service executives taking so much of time, while understanding/redressing client query?, and accordingly company can take following measures
-    Proper training program.
-    Technology intervention (To address the billing related problems faced by customer).
-    Dedicated team to solve billing issues.
+    a. Proper training program.
+    b. Technology intervention (To address the billing related problems faced by customer).
+    c. Dedicated team to solve billing issues.
 
 2. Reduce the existing response time for within SLA and below SLA time. Map the SLA time for competitors and devise a strategy accordingly. (What competitors are doing?/How they are handling customer problems?)
 
