@@ -19,6 +19,19 @@ escalations.
 
 5)-Trends and Patterns Identification: Identify patterns and trends in customer service data to uncover opportunities for process improvements and innovative service offerings.
 
+## Recommendations:-
+
+1. Find out why service executives taking so much of time, while understanding/redressing client query?, and accordingly company can take following measures
+    Proper training program.
+    Technology intervention (To address the billing related problems faced by customer).
+    Dedicated team to solve billing issues.
+
+2. Reduce the existing response time for within SLA and below SLA time. Map the SLA time for competitors and devise a strategy accordingly. (What competitors are doing?/How they are handling customer problems?)
+
+3. As (67.7%) customers are preferring online/digital communication, ask the service executives to be more proactive. (Create standard operating procedure to reduce service time & service failure, while resolving issues recorded through Chatbot, Email, and Web mode).
+
+4. Make digital/online communication mode more interactive (Animations & Coupons).
+
 ## Data Description/Data Dictionary:-
 
 Id: Unique Customer id
@@ -52,8 +65,6 @@ response_time: How fast the customer request was serviced (SLA level
 call duration in minutes: Duration of the call
 
 call_center: Location of the call center where service request was handled
-
-
 
 
 
