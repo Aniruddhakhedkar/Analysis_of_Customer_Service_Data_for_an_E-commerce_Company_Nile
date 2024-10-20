@@ -32,7 +32,7 @@ escalations.
 
 4. Make digital/online communication mode more interactive (Animations & Coupons).
 
-## Data Description/Data Dictionary:-
+## Data Description/Data Dictionary:
 
 Id: Unique Customer id
 
