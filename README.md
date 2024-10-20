@@ -1,4 +1,4 @@
-# Project Title:- Analysis of Customer Service Data for an E-commerce Company Nile.
+# Project Title:- Analysis of Customer Service Data for an E-commerce Company Nile
 
 ### Project Description:-
 
